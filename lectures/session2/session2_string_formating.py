@@ -1,0 +1,1 @@
+print(str.format("{0} and {1} are BFF", "Tung", "Phuong"))
